@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowaGardenDupescript/Growagarden/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowaGardenDupescript/scripts/main/script.lua"))()
