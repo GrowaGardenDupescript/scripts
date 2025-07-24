@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowaGardenDupescript/scripts/main/script.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/imsxNaG9/raw"))()
